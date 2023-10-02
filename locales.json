@@ -527,7 +527,9 @@
       "exit": "Exit",
       "show_attachments_count": "Show {{count}} attachment(s)",
       "hide_attachments_count": "Hide {{count}} attachment(s)",
-      "downloading": "Downloading..."
+      "downloading": "Downloading...",
+      "download": "Download",
+      "preview": "Preview"
     },
     "screens": {
       "splash": {
@@ -1277,7 +1279,9 @@
       "exit": "ចាកចេញ",
       "show_attachments_count": "បង្ហាញឯកសារភ្ជាប់ ({{count}})",
       "hide_attachments_count": "មិនបង្ហាញឯកសារភ្ជាប់ ({{count}})",
-      "downloading": "កំពុងទាញយក..."
+      "downloading": "កំពុងទាញយក...",
+      "download": "ទាញយក",
+      "preview": "បើកមើល"
     },
     "screens": {
       "splash": {
@@ -2027,7 +2031,9 @@
       "exit": "Exit",
       "show_attachments_count": "Show {{count}} attachment(s)",
       "hide_attachments_count": "Hide {{count}} attachment(s)",
-      "downloading": "Downloading..."
+      "downloading": "Downloading...",
+      "download": "Download",
+      "preview": "Preview"
     },
     "screens": {
       "splash": {
